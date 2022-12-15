@@ -24,6 +24,7 @@ int main(){
         cout << x;
     } else if (x == 10) {
         cout << "non presente";
+       
     }
     return 0;
 }
