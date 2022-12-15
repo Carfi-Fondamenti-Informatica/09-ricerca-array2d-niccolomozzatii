@@ -1,1 +1,1 @@
-
+int posizione (char, char);
